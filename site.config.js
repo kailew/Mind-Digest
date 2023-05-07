@@ -3,9 +3,10 @@ const CONFIG = {
   profile: {
     name: "Welcome to Mind Digest",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "frontend developer",
     bio: "This is a Blog website using knowledge from two creators who love to do research.",
     email: "morethanmin.dev@gmail.com",
-    linkedin: "",
+    linkedin: "kailew",
     github: "kailew",
     instagram: "",
   },
